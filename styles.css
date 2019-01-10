@@ -1,0 +1,68 @@
+
+.card1 {
+    border: solid red;
+    grid-template-rows: 300px;
+}
+
+.card2 {
+    border: solid red;
+
+}
+
+.card3 {
+    border: solid red;
+}
+
+.card {
+    width: 200px;
+    height: auto;
+}
+
+.scoreBoard {
+    border: solid red;
+
+}
+
+
+.computerCard1 {
+    border: solid red;
+}
+
+.computerCard2 {
+    border: solid red;
+}
+
+.computerCard3 {
+    border: solid red;
+}
+
+.computerPlayedCard {
+    border: solid red;
+}
+
+.yourPlayedCard {
+    border: solid red;
+}
+
+.all {
+    border: solid red;
+}
+
+.discard {
+    border: solid red;
+}
+
+.roundsWon {
+    border: solid red;
+
+}
+
+
+.main {
+    display: grid;
+    grid-gap: 1em;
+    border: solid;
+    justify-self: center;
+
+}
+
